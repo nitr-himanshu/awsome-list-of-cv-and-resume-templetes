@@ -10,10 +10,13 @@ I have tried to gather first editions and unique ones only.
  ### Table of contents
  
  
-1. [A note on ATS](#a-note-on-ats)
-2. [Latex Templetes](#latex)
-3. [Word Templetes](#word)
-4. [Resume Review](#cv-review)
+- [awsome-list-of-cv-and-resume-templetes](#awsome-list-of-cv-and-resume-templetes)
+    - [Table of contents](#table-of-contents)
+      - [A note on ATS](#a-note-on-ats)
+    - [Latex](#latex)
+    - [Word](#word)
+    - [CV Review](#cv-review)
+    - [Acknowledgment](#acknowledgment)
 
 #### A note on ATS
  <details>
@@ -63,7 +66,7 @@ install (terminal) :
 15	| multipage - multiColumn	| [Friggeri CV ](https://www.overleaf.com/latex/templates/friggeri-cv-template/hmnchbfmjgqh) | latex |  <img src="images/frig.jpeg" alt-="jankapunkt" width="300px"/> |
 16	| multipage - oneColumn	| [zachscrivena CV ](https://github.com/zachscrivena/simple-resume-cv) | latex |  <img src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-01.png" alt-="jankapunkt" width="300px"/> |
 17	| multipage - oneColumn	| [ billryan CV ](https://github.com/billryan/resume) | latex |  <img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" alt-="jankapunkt" width="300px"/> |
-18	| onepage - oneColumn	| [ ice1000 CV ](https://github.com/ice1000/resume) | latex |  <img src="images/ice1000.png" alt-="jankapunkt" width="300px"/> |
+18	| onepage - oneColumn	| [ ice1000 CV ](https://github.com/ice1000/resume) | typst |  <img src="images/ice1000.png" alt-="jankapunkt" width="300px"/> |
 19	| multipage - oneColumn	| [ liweitianux CV ](https://github.com/liweitianux/resume) | latex |  <img src="images/liweitianux.png" alt-="jankapunkt" width="300px"/> |
 20	| multipage - oneColumn	| [ raphink CV ](https://github.com/raphink/CV) | latex |  <img src="images/raphink.png" alt-="jankapunkt" width="300px"/> |
 21	| multipage - twoColumn	| [ 20 seconds CV ](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) | latex |  <img src="https://raw.githubusercontent.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex/master/Twenty-Seconds_cv_icons.jpg" alt-="jankapunkt" width="300px"/> |
